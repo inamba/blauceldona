@@ -13,6 +13,7 @@ Puedes utilizar los enlaces de las siguientes formas:
 
 	https://github.com/inamba/blauceldona/raw/master/images/pixel.png
 
+
 ### Tareas pendientes
 * Compilar archivos de estilos y scripts.
 * Comprimir ficheros.
