@@ -11,9 +11,10 @@ Puedes utilizar los enlaces de las siguientes formas:
 
 
 ### Third-Party assets
-* [Unero WooCommerce WordPress Theme](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
+* [Unero Theme](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
 * Font Awesome Icons
 * Linear Icons
+* Facebook Catalog
 * Instagram Shop
 * Mega Menu
 
@@ -21,7 +22,8 @@ Puedes utilizar los enlaces de las siguientes formas:
 ### Issues
 * Compilar archivos de estilos y scripts.
 * Comprimir ficheros.
-* Optimizar plugin "inamba-pro"
+* Optimizar plugin `inamba-pro` a la nueva versión.
+* Realizar pruebas de velocidad.
 
 
 ### Demo
