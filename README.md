@@ -8,19 +8,14 @@ Se utiliza este servidor como <em>content delivery network</em> del website de <
 * Font Awesome
 * Linear Icons
 
-
-### Usage
+### Uso
 Puedes utilizar los enlaces de las siguientes formas:
-
 	https://github.com/inamba/blauceldona/raw/master/images/pixel.png
-	https://raw.githubusercontent.com/inamba/blauceldona/master/images/pixel.png
 
-
-### Demostration
-Para ver la utilización de este repositorio visita <a href="https://blauceldona.com/" rel="nofollow" target="_blank">blauceldona.com</a>
-
-
-### Pending
+### Tareas pendientes
 * Compilar archivos de estilos y scripts.
 * Comprimir ficheros.
 * Optimizar plugin "inamba-pro"
+
+### Demo
+Para ver la utilización de este repositorio visita <a href="https://blauceldona.com/" rel="nofollow" target="_blank">blauceldona.com</a>
