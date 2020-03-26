@@ -12,6 +12,7 @@ Puedes utilizar los enlaces de las siguientes formas:
 
 ### Third-Party assets
 * [Unero Theme](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
+* [Child Pro](https://inamba.com/child-pro/)
 * Font Awesome Icons
 * Linear Icons
 * Facebook Catalog
