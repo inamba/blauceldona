@@ -11,7 +11,7 @@ Puedes utilizar los enlaces de las siguientes formas:
 
 
 ### Third-Party assets
-* Unero WordPress Theme [market](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
+* [Unero WordPress Theme](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
 * Font Awesome Icons
 * Linear Icons
 
