@@ -1,4 +1,4 @@
-# Blauceldona CDN Project
+# Blauceldona CDN
 Este proyecto está siendo desarrollado por <a href="https://inamba.com/" rel="nofollow" target="_blank">Inamba</a>.<br/>
 Se utiliza este servidor como `content delivery network` del website de <em>Blauceldona</em>.
 
@@ -6,13 +6,13 @@ Se utiliza este servidor como `content delivery network` del website de <em>Blau
 ### Uso
 Puedes utilizar los enlaces de las siguientes formas:
 
-	https://github.com/inamba/blauceldona/raw/master/images/pixel.png
+	https://github.com/inamba/blauceldona/raw/master/README.md
 
 
 
 ### Third-Party assets
 * [Unero Theme](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
-* [Child Pro](https://inamba.com/child-pro/)
+* [Child Pro](https://inamba.com/go/childpro/)
 * Font Awesome Icons
 * Linear Icons
 * Facebook Catalog
@@ -25,6 +25,7 @@ Puedes utilizar los enlaces de las siguientes formas:
 * Comprimir ficheros.
 * Optimizar plugin `inamba-pro` a la nueva versión.
 * Realizar pruebas de velocidad.
+* Implementar contenidos externos.
 
 
 ### Demo
