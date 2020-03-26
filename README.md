@@ -10,6 +10,7 @@ Se utiliza este servidor como <em>content delivery network</em> del website de <
 
 ### Uso
 Puedes utilizar los enlaces de las siguientes formas:
+
 	https://github.com/inamba/blauceldona/raw/master/images/pixel.png
 
 ### Tareas pendientes
