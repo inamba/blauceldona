@@ -18,3 +18,9 @@ Puedes utilizar los enlaces de las siguientes formas:
 
 ### Demostration
 Para ver la utilización de este repositorio visita <a href="https://blauceldona.com/" rel="nofollow" target="_blank">blauceldona.com</a>
+
+
+### Pending
+* Compilar archivos de estilos y scripts.
+* Comprimir ficheros.
+* Optimizar plugin "inamba-pro"
