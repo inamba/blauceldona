@@ -1,7 +1,7 @@
 /* TEAM */
 
 	Esteban Dalla Rosa
-	Web Designer
+	Web Developer
 	Contact: esteban [at] inamba [dot] com
 	Facebook: @edallarosa
 	Instagram: @edallarosa
@@ -11,12 +11,12 @@
 /* SITE */
 
 	Last update: 2020/03/26
-	Language: Castellano
+	Language: Spanish
 	Doctype: 
 	IDE: 
 	
 	
 	
-	More info, contact us personally info [at] inamba [dot] com
+	More info, contact us personally info [at] blauceldona [dot] com
 	
 	Robots, visit https://blauceldona.com/robots.txt
