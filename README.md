@@ -3,15 +3,18 @@ Este proyecto está siendo desarrollado por <a href="https://inamba.com/" rel="n
 Se utiliza este servidor como <em>content delivery network</em> del website de <em>Blauceldona</em>.
 
 
-### Third-Pary
+### Assets
+* Unero WordPress Theme
 * Font Awesome
 * Linear Icons
+
 
 ### Usage
 Puedes utilizar los enlaces de las siguientes formas:
 
-	$ https://github.com/inamba/blauceldona/raw/master/images/pixel.png
+	https://github.com/inamba/blauceldona/raw/master/images/pixel.png
+	https://raw.githubusercontent.com/inamba/blauceldona/master/images/pixel.png
 
 
-### Demostración
+### Demostration
 Para ver la utilización de este repositorio visita <a href="https://blauceldona.com/" rel="nofollow" target="_blank">blauceldona.com</a>
