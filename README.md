@@ -18,6 +18,7 @@ Puedes utilizar los enlaces de las siguientes formas:
 * Facebook Catalog
 * Instagram Shop
 * Mega Menu
+* [Image Compressor](https://imagecompressor.com/)
 
 
 ### Issues
