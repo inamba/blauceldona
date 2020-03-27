@@ -24,6 +24,7 @@ alert(cdn_path);
 * Instagram Shop
 * Mega Menu
 * [Image Compressor](https://imagecompressor.com/)
+* [Choose a License](https://choosealicense.com/)
 
 ### Usage example
 Puedes utilizar los enlaces de las siguientes formas:
