@@ -38,5 +38,9 @@ Puedes utilizar los enlaces de las siguientes formas:
 	https://github.com/inamba/blauceldona/raw/master/blauceldona.git
 
 
+### License
+Se utiliza **Creative Commons Attribution 4.0 International** actualmente.
+
+
 ### Demo
 Para ver la utilización de este repositorio visita <a href="https://blauceldona.com/" rel="nofollow" target="_blank">blauceldona.com</a>
