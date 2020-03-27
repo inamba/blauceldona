@@ -13,13 +13,6 @@ var cdn_path = "https://github.com/inamba/blauceldona/raw/master";
 alert(cdn_path);
 ```
 
-### Uso
-Puedes utilizar los enlaces de las siguientes formas:
-
-	https://github.com/inamba/blauceldona/raw/master/addons/humans.txt
-
-
-
 ### Third-Party assets
 * [Unero Theme](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
 * [Child Pro](https://inamba.com/go/childpro/)
@@ -34,9 +27,15 @@ Puedes utilizar los enlaces de las siguientes formas:
 ### Issues
 * Compilar archivos de estilos y scripts.
 * Comprimir ficheros.
-* Optimizar plugin `inamba-pro` a la nueva versión.
+* Optimizar plugin *inamba-pro* a la nueva versión.
 * Realizar pruebas de velocidad.
 * Implementar contenidos externos.
+
+
+### Uso
+Puedes utilizar los enlaces de las siguientes formas:
+
+	https://github.com/inamba/blauceldona/raw/master/blauceldona.git
 
 
 ### Demo
