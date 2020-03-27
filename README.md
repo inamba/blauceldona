@@ -5,6 +5,7 @@ Se utiliza este servidor como `content delivery network` del website de <em>Blau
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 
+
 ### Uso
 Puedes utilizar los enlaces de las siguientes formas:
 
