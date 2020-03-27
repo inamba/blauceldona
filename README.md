@@ -12,6 +12,8 @@ Se utiliza este servidor como **Content Delivery Network** del website de <em>Bl
 var cdn_path = "https://github.com/inamba/blauceldona/raw/master";
 alert(cdn_path);
 ```
+<br/>
+<br/>
 
 ### Third-Party assets
 * [Unero Theme](https://themeforest.net/item/unero-minimalist-ajax-woocommerce-wordpress-theme/19729674)
@@ -23,16 +25,7 @@ alert(cdn_path);
 * Mega Menu
 * [Image Compressor](https://imagecompressor.com/)
 
-
-### Issues
-* Compilar archivos de estilos y scripts.
-* Comprimir ficheros.
-* Optimizar plugin *inamba-pro* a la nueva versión.
-* Realizar pruebas de velocidad.
-* Implementar contenidos externos.
-
-
-### Uso
+### Usage example
 Puedes utilizar los enlaces de las siguientes formas:
 
 	https://github.com/inamba/blauceldona/raw/master/blauceldona.git
@@ -43,5 +36,5 @@ Se utiliza **Creative Commons Attribution 4.0 International** actualmente.
 Obtén más información acerca de esta [licencia](https://choosealicense.com/licenses/cc-by-4.0/) de choosealicense.com
 
 
-### Demo
+### Live demo
 Para ver la utilización de este repositorio visita <a href="https://blauceldona.com/" rel="nofollow" target="_blank">blauceldona.com</a>
