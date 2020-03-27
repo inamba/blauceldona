@@ -40,6 +40,7 @@ Puedes utilizar los enlaces de las siguientes formas:
 
 ### License
 Se utiliza **Creative Commons Attribution 4.0 International** actualmente.
+Obtén más información acerca de esta [licencia](https://choosealicense.com/licenses/cc-by-4.0/) de choosealicense.com
 
 
 ### Demo
