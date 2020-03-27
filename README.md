@@ -8,6 +8,11 @@ Se utiliza este servidor como `content delivery network` del website de <em>Blau
 [![Maintainability](https://api.codeclimate.com/v1/badges/9f5d48fd95e3ab3d8472/maintainability)](https://codeclimate.com/repos/54523c9069568068a70b3279/maintainability)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
 
 
 ### Uso
