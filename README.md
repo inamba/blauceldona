@@ -12,10 +12,10 @@ Se utiliza este servidor como `content delivery network` del website de <em>Blau
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
- 
- 
- 
+  
+  
+  
+  
 ### Uso
 Puedes utilizar los enlaces de las siguientes formas:
 
